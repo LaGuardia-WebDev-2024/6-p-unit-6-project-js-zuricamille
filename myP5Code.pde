@@ -11,7 +11,14 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+ background (243, 243, 230); //background
+ ellipse (100, 100, 150, 150); //base 1
+ ellipse (100,100,50,50); // hole 1
+ ellipse (200, 250, 150, 150); //base 2
+ ellipse (200, 250, 50, 50); //hole 2
+ ellipse (100, 400, 150, 150); //base 3
+ ellipse (100, 400, 50, 50); //hole 3
+ 
 
   
 
