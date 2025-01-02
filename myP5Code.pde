@@ -12,14 +12,16 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
  background (243, 243, 230); //background
+ rect (20, 20, 350, 350)
  ellipse (100, 100, 150, 150); //base 1
  ellipse (100,100,50,50); // hole 1
  ellipse (200, 250, 150, 150); //base 2
  ellipse (200, 250, 50, 50); //hole 2
- ellipse (100, 400, 150, 150); //base 3
- ellipse (100, 400, 50, 50); //hole 3
+ ellipse (100, 300, 150, 150); //base 3
+ ellipse (100, 300, 50, 50); //hole 3
+ ellipse (270, 150, 160, 160)
+ ellipse ()
  
-
   
 
 }
