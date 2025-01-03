@@ -12,15 +12,24 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
  background (243, 243, 230); //background
- rect (20, 20, 350, 350)
+ rect (20, 20, 350, 350);// plate
+ fill (239, 155, 218)
  ellipse (100, 100, 150, 150); //base 1
+ fill (255, 255, 255)
  ellipse (100,100,50,50); // hole 1
+ fill (183, 227, 197)
  ellipse (200, 250, 150, 150); //base 2
+ fill (255, 255, 255)
  ellipse (200, 250, 50, 50); //hole 2
+ fill (239, 155, 218)
  ellipse (100, 300, 150, 150); //base 3
+ fill (255, 255, 255)
  ellipse (100, 300, 50, 50); //hole 3
- ellipse (270, 150, 160, 160)
- ellipse ()
+ fill(239, 155, 218)
+ ellipse (270, 150, 160, 160); //base 4
+ fill (255, 255, 255)
+ ellipse (270,150,50,50);// hole 4
+ 
  
   
 
